@@ -1,0 +1,1 @@
+ps导出jpg要是RGB 24bit
